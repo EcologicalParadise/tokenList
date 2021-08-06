@@ -1,50 +1,24 @@
 {
-  "name": "leek token List",
-  "timestamp": "2020-08-11T22:55:13.889Z",
-  "version": {
-    "major": 1,
-    "minor": 2,
-    "patch": 6
-  },
-  "tags": {},
-  "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+  "name": "Compound",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "leek",
-    "default"
+    "compound",
+    "defi"
   ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "name": "MDX",
-      "address": "0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2",
-      "symbol": "MDX",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd7b9bd283Ace02f5081cDE0AA2673619e6AFEBC2/logo.png"
-    },
-    {
-      "name": "Heco-Peg HUSD Token",
-      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
-      "symbol": "HUSD",
-      "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
-    },
-    {
-      "name": "Wrapped HT",
-      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
-      "symbol": "WHT",
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
       "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
-    },
-    {
-      "name": "Heco-Peg ETH Token",
-      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
-      "symbol": "ETH",
-      "decimals": 18,
-      "chainId": 1,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
-    },
-
-  ]
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
 }
