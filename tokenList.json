@@ -14,28 +14,12 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
-      "symbol": "WHT",
+      "name": "LEEK TOKEN",
+      "address": "0xe11a098ce65138e418a0f67d5be3dea1ac227e89",
+      "symbol": "LEEK",
       "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
-    },
-    {
-      "name": "Tether COIN",
-      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
-      "symbol": "HUSDT",
-      "decimals": 6,
-      "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "name": "Dai COIN",
-      "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
-      "symbol": "HDai",
-      "decimals": 18,
-      "chainId": 256,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/EcologicalParadise/tokenList/main/heco/0xe11a098Ce65138e418A0F67D5be3dEa1aC227e89.png"
     }
   ]
 }
