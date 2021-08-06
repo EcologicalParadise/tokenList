@@ -34,7 +34,7 @@
       "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
       "symbol": "HDai",
       "decimals": 18,
-      "chainId": 256,
+      "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
