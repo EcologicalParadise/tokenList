@@ -9,7 +9,7 @@
   "tokens": [
     {
       "name": "LEEK TOKEN",
-      "address": "0xe11a098ce65138e418a0f67d5be3dea1ac227e89",
+      "address": "0xe11a098Ce65138e418A0F67D5be3dEa1aC227e89",
       "symbol": "LEEK",
       "decimals": 18,
       "chainId": 128,
