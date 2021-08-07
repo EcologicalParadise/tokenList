@@ -14,6 +14,14 @@
       "decimals": 18,
       "chainId": 128,
       "logoURI": "https://raw.githubusercontent.com/EcologicalParadise/tokenList/main/heco/0xe11a098Ce65138e418A0F67D5be3dEa1aC227e89.png"
+    },
+    {
+      "name": "USDT",
+      "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/EcologicalParadise/tokenList/main/heco/0xa71EdC38d189767582C38A3145b5873052c3e47a.png"
     }
   ],
   "version": {
